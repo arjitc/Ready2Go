@@ -9,7 +9,7 @@ Planned feature list,
 - [ ] Graphs -- Todo
 - [ ] Auto(Updater) - So you won't need to mess around compiling the latest cgminer by hand ;) --Todo 
 - [ ] WebUI - Display status of each device plugged in --Todo 
-- [ ] CGminer support (latest from Git) --Done
+- [x] CGminer support (latest from Git)
 
 Devices supported
 ==========
