@@ -11,6 +11,5 @@ chmod +x build-cgminer.sh
 echo Update starting
 wait 2
 ./build-cgminer.sh
-cd .. && rm -rf Ready2Go-update
 echo Update done.
 read -p "press [enter] to continue..."
