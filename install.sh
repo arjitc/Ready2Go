@@ -16,7 +16,7 @@ cd ..
 rm -rf update.sh
 wget https://raw.github.com/arjitc/Ready2Go/master/update.sh
 chmod +x update.sh
-alias update="./update"
+alias update="./update.sh"
 alias cgminer="cgminer"
 echo ---------------------------------
 echo Install done !
