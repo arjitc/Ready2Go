@@ -8,7 +8,7 @@ Hey, I'm planning on building a distro pretty similar to MiningPeon for the Rasb
 Base OS : Rasbian  
 
 Planned feature list, 
-1. Graphs -- Todo
-2. Auto(Updater) - So you won't need to mess around compiling the latest cgminer by hand ;) --Todo 
-3. WebUI - Display status of each device plugged in --Todo 
-4. CGminer support (latest from Git) --Done
+- [ ] Graphs -- Todo
+- [ ] Auto(Updater) - So you won't need to mess around compiling the latest cgminer by hand ;) --Todo 
+- [ ] WebUI - Display status of each device plugged in --Todo 
+- [ ] CGminer support (latest from Git) --Done
