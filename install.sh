@@ -23,6 +23,6 @@ echo Install done !
 echo Two things to remember -for now-
 echo 1. To update your cgminer version type   update   and it will update
 echo 2. To start mining type   cgminer   and cgminer will launch
-echo ---------------------------------
+echo ----------------------------------
 
 
