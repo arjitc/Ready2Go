@@ -10,3 +10,12 @@ Planned feature list,
 - [ ] Auto(Updater) - So you won't need to mess around compiling the latest cgminer by hand ;) --Todo 
 - [ ] WebUI - Display status of each device plugged in --Todo 
 - [ ] CGminer support (latest from Git) --Done
+
+Devices supported
+==========
+- [x] avalon
+- [x] BFL SC
+- [x] BitForce
+- [x] Icarus/Lancelot
+- [x] Modminer
+- [x] Ztex
