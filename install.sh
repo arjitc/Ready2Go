@@ -12,10 +12,11 @@ echo ---------------------------------
 echo Install [1/2] done ...
 echo ---------------------------------
 wait 2
+cd ..
 rm -rf update.sh
 wget https://raw.github.com/arjitc/Ready2Go/master/update.sh
 chmod +x update.sh
-alias update="cd Ready2Go-sys && ./update"
+alias update="./update"
 alias cgminer="cgminer"
 echo ---------------------------------
 echo Install done !
