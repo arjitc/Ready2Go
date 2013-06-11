@@ -8,6 +8,9 @@ Base OS : Rasbian
 
 How do I install this ?
 ==========
+
+You'll need Rasbian installed firstly (latest preferred) and then execute the following statements one by one,
+
 wget https://raw.github.com/arjitc/Ready2Go/master/install.sh
 
 chmod +x install.sh
