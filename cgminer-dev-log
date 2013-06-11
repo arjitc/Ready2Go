@@ -1,0 +1,22 @@
+Configuration Options Summary:
+
+  curses.TUI...........: FOUND: -lncurses
+  OpenCL...............: NOT FOUND. GPU mining support DISABLED
+  scrypt...............: Disabled (needs OpenCL)
+  ADL..................: SDK NOT found, GPU monitoring support DISABLED
+
+  Avalon.ASICs.........: Enabled
+  BFL.ASICs............: Enabled
+  BitForce.FPGAs.......: Enabled
+  Icarus.FPGAs.........: Enabled
+  ModMiner.FPGAs.......: Enabled
+  Ztex.FPGAs...........: Enabled
+
+Compilation............: make (or gmake)
+  CPPFLAGS.............:
+  CFLAGS...............: -g -O2 -I/usr/include/libusb-1.0
+  LDFLAGS..............:  -lpthread
+  LDADD................:  -lcurl   -ljansson -lpthread     -lm -lusb-1.0
+
+Installation...........: make install (as root if needed, with 'su' or 'sudo')
+  prefix...............: /usr/local
