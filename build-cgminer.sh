@@ -12,5 +12,5 @@ sudo apt-get install libusb-1.0
 sudo apt-get install dh-autoreconf
 git clone https://github.com/ckolivas/cgminer.git
 cd cgminer
-./autogen.sh --enable-bflsc  --enable-bitforce --enable-icarus --enable-modminer --enable-ztex   --enable-avalon
-make && make install && sudo make install 
+sudo ./autogen.sh --enable-bflsc  --enable-bitforce --enable-icarus --enable-modminer --enable-ztex   --enable-avalon
+make && sudo make install 
