@@ -9,7 +9,7 @@ wget https://raw.github.com/arjitc/Ready2Go/master/build-cgminer.sh
 chmod +x build-cgminer.sh
 ./build-cgminer.sh
 echo ---------------------------------
-echo Install (1/2) done ...
+echo Install [1/2] done ...
 echo ---------------------------------
 wait 2
 rm -rf update.sh
