@@ -12,4 +12,4 @@ apt-get install libusb-1.0
 git clone https://github.com/ckolivas/cgminer.git
 cd cgminer
 ./autogen.sh --enable-bflsc  --enable-bitforce --enable-icarus --enable-modminer --enable-ztex   --enable-avalon
-make && sudo make install
+make && make install && sudo make install 
