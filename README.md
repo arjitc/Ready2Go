@@ -1,7 +1,7 @@
 Ready2Go
 ========
 
-Ready2Go is a Rasbian (Debian) based distro for the RasberryPi
+Ready2Go is a Rasbian (Debian) based distro wrapper for the RasberryPi
 
 Base OS : Rasbian  
 
