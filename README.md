@@ -33,3 +33,11 @@ Devices supported
 - [x] Icarus/Lancelot
 - [x] Modminer
 - [x] Ztex
+
+
+Credits
+==========
+Login splash -> https://gist.github.com/piksel/3023588
+
+
+
