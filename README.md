@@ -7,7 +7,7 @@ Base OS : Rasbian
 
 Planned feature list, 
 - [ ] Graphs -- Todo
-- [ ] Auto(Updater) - So you won't need to mess around compiling the latest cgminer by hand ;) --Todo 
+- [x] Auto(Updater) - So you won't need to mess around compiling the latest cgminer by hand ;)
 - [ ] WebUI - Display status of each device plugged in --Todo 
 - [x] CGminer support (latest from Git)
 
