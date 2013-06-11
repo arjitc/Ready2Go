@@ -17,7 +17,7 @@ alias update="cd Ready2Go-sys && ./update"
 alias cgminer="cgminer"
 echo ---------------------------------
 echo Install done !
-echo Two things to remember (for now)
+echo Two things to remember -for now-
 echo 1. To update your cgminer version type "update" and it'll update
 echo 2. To start mining type "cgminer" and cgminer will launch
 echo ---------------------------------
