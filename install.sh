@@ -18,6 +18,6 @@ wget https://raw.github.com/arjitc/Ready2Go/master/update.sh
 chmod +x update.sh
 echo ---------------------------------
 echo Install done !
-echo ----------------------------------
+echo ---------------------------------
 
 
