@@ -34,6 +34,13 @@ Devices supported
 - [x] Modminer
 - [x] Ztex
 
+Todo
+==========
+- [ ] Fix installer
+- [ ] Add update etc commands to .bashrc
+- [ ] Create img to load and go (v2)
+
+
 
 Credits
 ==========
