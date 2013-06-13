@@ -1,15 +1,15 @@
 Ready2Go
 ========
 
-Ready2Go is a Rasbian (Debian) based distro wrapper for the RasberryPi
+Ready2Go is a Raspbian (Debian) based distro wrapper for the RaspberryPi
 
-Base OS : Rasbian  
+Base OS : Raspbian  
 
 
 How do I install this ?
 ==========
 
-You'll need Rasbian installed firstly (latest preferred) and then execute the following statements one by one,
+You'll need Raspbian installed firstly (latest preferred) and then execute the following statements one by one,
 
 wget https://raw.github.com/arjitc/Ready2Go/master/install.sh
 
