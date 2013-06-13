@@ -11,18 +11,24 @@ wget https://raw.github.com/arjitc/Ready2Go/master/build-cgminer.sh
 chmod +x build-cgminer.sh
 ./build-cgminer.sh
 echo ---------------------------------
-echo Install [2/3] ...
+echo Install [2/4] ...
 echo ---------------------------------
 wait 2
 wget https://raw.github.com/arjitc/Ready2Go/master/update.sh
 chmod +x update.sh
 echo ---------------------------------
-echo Install [3/3] ...
+echo Install [3/4] ...
 echo ---------------------------------
 wait 2
 wget https://raw.github.com/arjitc/Ready2Go/master/build-motd.sh
 chmod +x build-motd.sh
 ./build-motd.sh
+echo ---------------------------------
+echo Install [4/4] ...
+echo ---------------------------------
+wait 2
+rm -rf .bashrc
+wget https://raw.github.com/arjitc/Ready2Go/master/.bashrc
 echo ---------------------------------
 echo Install done !
 echo ---------------------------------
