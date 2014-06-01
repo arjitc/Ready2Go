@@ -10,9 +10,9 @@ echo RAM usage :
 echo ---------------------------------
 free -m
 echo ---------------------------------
-echo Disk usage : 
+echo CPU usage : 
 echo ---------------------------------
-df -h
+mpstat | grep -A 5 "%idle" | tail -n 1 | awk -F " " '{print 100 -  $ 12}'a
 echo ---------------------------------
 read -p "press [enter] to continue..."
 clear
