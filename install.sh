@@ -10,6 +10,7 @@ rm -rf build-cgminer.sh
 wget https://raw.github.com/arjitc/Ready2Go/master/build-cgminer.sh --no-check-certificate
 chmod +x build-cgminer.sh
 ./build-cgminer.sh
+apt-get -y install mpstat
 echo ---------------------------------
 echo Install [2/4] ...
 echo ---------------------------------
