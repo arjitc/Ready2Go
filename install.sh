@@ -28,7 +28,7 @@ echo ---------------------------------
 echo Install [4/4] ...
 echo ---------------------------------
 wait 2
-rm -rf .bashrc
+rm -rf /root/.bashrc
 wget https://raw.github.com/arjitc/Ready2Go/master/.bashrc --no-check-certificate
 echo ---------------------------------
 echo Install done !
